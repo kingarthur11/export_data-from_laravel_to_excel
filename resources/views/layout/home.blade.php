@@ -34,7 +34,7 @@
                 <a href="/employee" class="p-4">Add Data</a>
             </li>
             <li>
-                <a href="" class="p-4">logout</a>
+                <a href="/export-excel" class="p-4">Print Excel Sheet</a>
             </li>
         </ul>
     </nav>
